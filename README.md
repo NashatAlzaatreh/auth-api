@@ -13,9 +13,9 @@
 
 ## Deploy, Run and Test
 
-- [test report]()
-- [deployed link]()
-- [Pull Request]()
+- [test report](https://github.com/NashatAlzaatreh/auth-api/actions)
+- [deployed link](https://nashat-auth-api.herokuapp.com)
+- [Pull Request](https://github.com/NashatAlzaatreh/auth-api/pull/1)
 
 ### Setup
 
